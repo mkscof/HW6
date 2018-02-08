@@ -1,0 +1,12 @@
+File List:
+HexGraph.cpp
+HexGraph.hpp
+HexNode.cpp
+HexNode.hpp
+main.cpp
+Makefile
+README
+
+Program works but the AI is not "expert", will pick a random tile each time
+as far as I can tell. I am somewhat sure the issue is due to the randomize following 
+the same pattern each time it is called.
